@@ -1,4 +1,3 @@
-<img width="1451" height="819" alt="Ola_Dashboard" src="https://github.com/user-attachments/assets/52b06c84-da1a-4ccb-9cff-2ceac457954d" />
 # Ola_Trips_Dashboard
 
 📌 Project Overview

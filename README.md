@@ -56,17 +56,17 @@ The dataset contains information about OLA rides, including:
 
  # DAX Measures
  1. Find out Total Revenue.
-    ```Total_Revenue = SUM(Data[total_trip_cost])```
+   - ```Total_Revenue = SUM(Data[total_trip_cost])```
 
  2. Find out Total Trips.
-    ```Total_Trips = COUNT(Data[booking id])```
+   - ```Total_Trips = COUNT(Data[booking id])```
 
  3. Find out Total Distance.
-    ```Total_distance = SUM(Data[distance_travelled])```
+   - ```Total_distance = SUM(Data[distance_travelled])```
 
  4. Find out Average Trip Cost.
-    ```Avg_trip_cost = AVERAGE(Data[total_trip_cost])```
+   - ```Avg_trip_cost = AVERAGE(Data[total_trip_cost])```
 
  5. Find out Average Rating.
-    ```Avg_rating = AVERAGE(Data[ratings])```
+   - ```Avg_rating = AVERAGE(Data[ratings])```
 

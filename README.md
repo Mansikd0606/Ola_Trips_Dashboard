@@ -52,4 +52,4 @@ The dataset contains information about OLA rides, including:
 
 🎨 Dashboard Preview
 ![Dashboard Screenshot]("C:\Users\PRITESH\Pictures\Screenshots\Ola_Dashboard.png")
-"C:\Users\PRITESH\Pictures\Screenshots\Ola_Dashboard.png"
+

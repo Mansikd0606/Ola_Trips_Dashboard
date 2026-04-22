@@ -51,5 +51,5 @@ The dataset contains information about OLA rides, including:
 - Revenue trends show seasonal or monthly variation
 
 🎨 Dashboard Preview
-![Dashboard Screenshot]("C:\Users\PRITESH\Pictures\Screenshots\Ola_Dashboard.png")
+![](C:\Users\PRITESH\Pictures\Screenshots\Ola_Dashboard.png)
 

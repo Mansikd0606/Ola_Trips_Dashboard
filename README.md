@@ -14,41 +14,41 @@ The goal is to transform raw trip data into an interactive dashboard that helps 
 - Provide actionable insights through visualization
 
 🛠️ Tools & Technologies Used
-> Power BI – Data visualization & dashboard creation
-> Power Query – Data cleaning and transformation
-> DAX (Data Analysis Expressions) – KPI calculations and measures
+- Power BI – Data visualization & dashboard creation
+- Power Query – Data cleaning and transformation
+- DAX (Data Analysis Expressions) – KPI calculations and measures
 
 📂 Dataset Description
 The dataset contains information about OLA rides, including:
-> Booking ID
-> Date & Time
-> Ride Distance
-> Fare Amount
-> Ratings
+- Booking ID
+- Date & Time
+- Ride Distance
+- Fare Amount
+- Ratings
 
 🔄 Data Preparation Steps
-> Removed null and duplicate values
-> Converted data types (Date, Numeric fields)
-> Created calculated columns (e.g., Month, Day, Time Slots)
+- Removed null and duplicate values
+- Converted data types (Date, Numeric fields)
+- Created calculated columns (e.g., Month, Day, Time Slots)
 
 📊 Key KPIs Created
-> 🚗 Total Trips
-> 💰 Total Revenue
-> 📈 Average Trip Value
-> 📍 Total Distance Covered
-> ⏱️ Average Ratings
+- 🚗 Total Trips
+- 💰 Total Revenue
+- 📈 Average Trip Value
+- 📍 Total Distance Covered
+- ⏱️ Average Ratings
 
 📈 Dashboard Features
-> Trips Trend Analysis (Daily/Monthly)
-> Peak Hour Analysis
-> Top Locations by Trips & Revenue
-> Interactive Filters (Slicers)
-> Gender Trips Anlaysis
+- Trips Trend Analysis (Daily/Monthly)
+- Peak Hour Analysis
+- Top Locations by Trips & Revenue
+- Interactive Filters (Slicers)
+- Gender Trips Anlaysis
 
 📌 Key Insights
-> Peak ride demand observed during specific hours (e.g., office commute times)
-> Certain locations contribute significantly to revenue
-> Revenue trends show seasonal or monthly variation
+- Peak ride demand observed during specific hours (e.g., office commute times)
+- Certain locations contribute significantly to revenue
+- Revenue trends show seasonal or monthly variation
 
 🎨 Dashboard Preview
 

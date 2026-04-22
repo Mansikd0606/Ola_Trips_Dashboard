@@ -7,11 +7,11 @@ This project focuses on analyzing OLA trips data using Power BI to uncover key b
 The goal is to transform raw trip data into an interactive dashboard that helps stakeholders make data-driven decisions.
 
 🎯 Objectives
-> Analyze trip patterns and booking trends
-> Identify peak demand periods
-> Monitor revenue and performance KPIs
-> Understand customer and ride behavior
-> Provide actionable insights through visualization
+- Analyze trip patterns and booking trends
+- Identify peak demand periods
+- Monitor revenue and performance KPIs
+- Understand customer and ride behavior
+- Provide actionable insights through visualization
 
 🛠️ Tools & Technologies Used
 > Power BI – Data visualization & dashboard creation

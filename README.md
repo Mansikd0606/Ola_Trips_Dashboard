@@ -77,3 +77,8 @@ The dataset contains information about OLA rides, including:
  5. Find out Average Rating.
    - ```Avg_rating = AVERAGE(Data[ratings])```
 
+📌 Conclusion
+
+This project demonstrates the ability to build a complete, end-to-end data analysis solution using Power BI alone. By transforming raw OLA trip data into a structured and interactive dashboard, it delivers clear visibility into key business metrics such as total trips, revenue performance, and usage patterns.
+
+Overall, The project reflects strong skills in data visualization, analytical thinking, and business storytelling. It also shows how Power BI can be leveraged not just as a reporting tool, but as a powerful platform for generating actionable insights.

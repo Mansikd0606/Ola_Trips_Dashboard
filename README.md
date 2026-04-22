@@ -26,10 +26,17 @@ The dataset contains information about OLA rides, including:
 - Fare Amount
 - Ratings
 
-🔄 Data Preparation Steps
-- Removed null and duplicate values
-- Converted data types (Date, Numeric fields)
-- Created calculated columns (e.g., Month, Day, Time Slots)
+⚙️ Data Processing Steps
+1. Data imported into Power BI
+2. Data cleaning using Power Query:
+   - Handling missing values
+   - Formatting date/time columns
+   - Removing duplicates
+3. KPI creation using DAX:
+   - Total Revenue
+   - Total Trips
+   - Average Ride Value
+4. Dashboard design with interactive visuals
 
 📊 Key KPIs Created
 - 🚗 Total Trips

@@ -1,3 +1,4 @@
+<img width="1451" height="819" alt="Ola_Dashboard" src="https://github.com/user-attachments/assets/52b06c84-da1a-4ccb-9cff-2ceac457954d" />
 # Ola_Trips_Dashboard
 
 📌 Project Overview
@@ -51,5 +52,5 @@ The dataset contains information about OLA rides, including:
 - Revenue trends show seasonal or monthly variation
 
 🎨 Dashboard Preview
-![](C:\Users\PRITESH\Pictures\Screenshots\Ola_Dashboard.png)
+![](https://github.com/user-attachments/assets/52b06c84-da1a-4ccb-9cff-2ceac457954d)
 
